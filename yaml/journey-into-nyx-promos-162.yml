@@ -1,0 +1,110 @@
+---
+object: card
+id: 2e60397c-5d21-4b8c-be4e-38554b8b405c
+oracle_id: 716632dd-2947-4641-a1db-50e0a2b0b4e8
+multiverse_ids: []
+tcgplayer_id: 92418
+cardmarket_id: 267150
+name: Hall of Triumph
+lang: en
+released_at: '2014-04-26'
+uri: https://api.scryfall.com/cards/2e60397c-5d21-4b8c-be4e-38554b8b405c
+scryfall_uri: https://scryfall.com/card/pjou/162/hall-of-triumph?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/e/2e60397c-5d21-4b8c-be4e-38554b8b405c.jpg?1625943329
+  normal: https://cards.scryfall.io/normal/front/2/e/2e60397c-5d21-4b8c-be4e-38554b8b405c.jpg?1625943329
+  large: https://cards.scryfall.io/large/front/2/e/2e60397c-5d21-4b8c-be4e-38554b8b405c.jpg?1625943329
+  png: https://cards.scryfall.io/png/front/2/e/2e60397c-5d21-4b8c-be4e-38554b8b405c.png?1625943329
+  art_crop: https://cards.scryfall.io/art_crop/front/2/e/2e60397c-5d21-4b8c-be4e-38554b8b405c.jpg?1625943329
+  border_crop: https://cards.scryfall.io/border_crop/front/2/e/2e60397c-5d21-4b8c-be4e-38554b8b405c.jpg?1625943329
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Legendary Artifact
+oracle_text: |-
+  As Hall of Triumph enters the battlefield, choose a color.
+  Creatures you control of the chosen color get +1/+1.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e401cbac-165b-433b-a42b-3f00ffc46652
+set: pjou
+set_name: Journey into Nyx Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e401cbac-165b-433b-a42b-3f00ffc46652
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apjou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pjou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2e60397c-5d21-4b8c-be4e-38554b8b405c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A716632dd-2947-4641-a1db-50e0a2b0b4e8&unique=prints
+collector_number: '162'
+digital: false
+rarity: rare
+watermark: herospath
+flavor_text: Heroes act without thought of glory or reward. Accolades are a consequence,
+  not a goal.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chuck Lukacs
+artist_ids:
+- 2bdf4da7-c66c-4c46-a253-284c856ccfab
+illustration_id: 911ea371-148d-425c-8eb7-8cbb23ea77de
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- gameday
+edhrec_rank: 6269
+penny_rank: 2440
+prices:
+  usd: 
+  usd_foil: '0.57'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.50'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hall+of+Triumph&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hall+of+Triumph&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hall+of+Triumph
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/92418?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hall+of+Triumph&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hall+of+Triumph&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

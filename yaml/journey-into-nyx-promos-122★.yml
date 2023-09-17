@@ -1,0 +1,115 @@
+---
+object: card
+id: bb2d43eb-a72f-4721-82b5-121a7c4d2ffa
+oracle_id: 77ccbea1-70af-4194-adad-39a904221c75
+multiverse_ids: []
+tcgplayer_id: 82879
+cardmarket_id: 266931
+name: Eidolon of Blossoms
+lang: en
+released_at: '2014-04-26'
+uri: https://api.scryfall.com/cards/bb2d43eb-a72f-4721-82b5-121a7c4d2ffa
+scryfall_uri: https://scryfall.com/card/pjou/122%E2%98%85/eidolon-of-blossoms?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/b/bb2d43eb-a72f-4721-82b5-121a7c4d2ffa.jpg?1662281017
+  normal: https://cards.scryfall.io/normal/front/b/b/bb2d43eb-a72f-4721-82b5-121a7c4d2ffa.jpg?1662281017
+  large: https://cards.scryfall.io/large/front/b/b/bb2d43eb-a72f-4721-82b5-121a7c4d2ffa.jpg?1662281017
+  png: https://cards.scryfall.io/png/front/b/b/bb2d43eb-a72f-4721-82b5-121a7c4d2ffa.png?1662281017
+  art_crop: https://cards.scryfall.io/art_crop/front/b/b/bb2d43eb-a72f-4721-82b5-121a7c4d2ffa.jpg?1662281017
+  border_crop: https://cards.scryfall.io/border_crop/front/b/b/bb2d43eb-a72f-4721-82b5-121a7c4d2ffa.jpg?1662281017
+mana_cost: "{2}{G}{G}"
+cmc: 4.0
+type_line: Enchantment Creature — Spirit
+oracle_text: Constellation — Whenever Eidolon of Blossoms or another enchantment enters
+  the battlefield under your control, draw a card.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Constellation
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e401cbac-165b-433b-a42b-3f00ffc46652
+set: pjou
+set_name: Journey into Nyx Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e401cbac-165b-433b-a42b-3f00ffc46652
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apjou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pjou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bb2d43eb-a72f-4721-82b5-121a7c4d2ffa/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A77ccbea1-70af-4194-adad-39a904221c75&unique=prints
+collector_number: 122★
+digital: false
+rarity: rare
+watermark: colorpie
+flavor_text: The emotional echoes of dryad gatherings attract lost souls.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Seb McKinnon
+artist_ids:
+- ad4caca0-8d89-44ce-a1a6-d5ca905bd6fb
+illustration_id: caadfa3d-0ed7-4547-92b5-4d9173469145
+border_color: black
+frame: '2003'
+frame_effects:
+- nyxtouched
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- buyabox
+edhrec_rank: 677
+penny_rank: 1661
+prices:
+  usd: 
+  usd_foil: '4.82'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.45'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Eidolon+of+Blossoms&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Eidolon+of+Blossoms&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Eidolon+of+Blossoms
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/82879?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eidolon+of+Blossoms&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Eidolon+of+Blossoms&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

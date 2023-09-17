@@ -1,0 +1,18 @@
+---
+object: set
+id: e401cbac-165b-433b-a42b-3f00ffc46652
+code: pjou
+name: Journey into Nyx Promos
+uri: https://api.scryfall.com/sets/e401cbac-165b-433b-a42b-3f00ffc46652
+scryfall_uri: https://scryfall.com/sets/pjou
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apjou&unique=prints
+released_at: '2014-04-26'
+set_type: promo
+card_count: 10
+parent_set_code: jou
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ths
+block: Theros
+icon_svg_uri: https://svgs.scryfall.io/sets/jou.svg?1694404800

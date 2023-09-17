@@ -1,0 +1,110 @@
+---
+object: card
+id: b564f16b-c212-4788-84a5-a95e4a748372
+oracle_id: 662a2158-4176-4b4a-be6a-13f4501d22f9
+multiverse_ids: []
+tcgplayer_id: 82211
+cardmarket_id: 266934
+name: Squelching Leeches
+lang: en
+released_at: '2014-04-26'
+uri: https://api.scryfall.com/cards/b564f16b-c212-4788-84a5-a95e4a748372
+scryfall_uri: https://scryfall.com/card/pjou/84/squelching-leeches?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/5/b564f16b-c212-4788-84a5-a95e4a748372.jpg?1561757881
+  normal: https://cards.scryfall.io/normal/front/b/5/b564f16b-c212-4788-84a5-a95e4a748372.jpg?1561757881
+  large: https://cards.scryfall.io/large/front/b/5/b564f16b-c212-4788-84a5-a95e4a748372.jpg?1561757881
+  png: https://cards.scryfall.io/png/front/b/5/b564f16b-c212-4788-84a5-a95e4a748372.png?1561757881
+  art_crop: https://cards.scryfall.io/art_crop/front/b/5/b564f16b-c212-4788-84a5-a95e4a748372.jpg?1561757881
+  border_crop: https://cards.scryfall.io/border_crop/front/b/5/b564f16b-c212-4788-84a5-a95e4a748372.jpg?1561757881
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Creature — Leech
+oracle_text: Squelching Leeches's power and toughness are each equal to the number
+  of Swamps you control.
+power: "*"
+toughness: "*"
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e401cbac-165b-433b-a42b-3f00ffc46652
+set: pjou
+set_name: Journey into Nyx Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e401cbac-165b-433b-a42b-3f00ffc46652
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apjou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pjou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b564f16b-c212-4788-84a5-a95e4a748372/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A662a2158-4176-4b4a-be6a-13f4501d22f9&unique=prints
+collector_number: '84'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tomasz Jedruszek
+artist_ids:
+- bba69285-2445-4a4b-a847-59397be972ea
+illustration_id: 0ec8c5a1-03d8-4065-b311-363ed25ea7f7
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- gameday
+edhrec_rank: 14409
+penny_rank: 5060
+prices:
+  usd: '0.12'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Squelching+Leeches&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Squelching+Leeches&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Squelching+Leeches
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/82211?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Squelching+Leeches&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Squelching+Leeches&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
